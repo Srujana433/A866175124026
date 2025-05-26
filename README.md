@@ -1,3 +1,4 @@
+// Wrie a C programming 
 #include <iostream>
 #include <fstream>
 #include <string>
